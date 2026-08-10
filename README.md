@@ -1,2 +1,2 @@
 # Kmn-audio
-audio files for ifitabo literature app
+audio files for klistu mu nyimbo app
